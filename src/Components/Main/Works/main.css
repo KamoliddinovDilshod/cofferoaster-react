@@ -1,0 +1,94 @@
+.works{
+  padding-bottom: 200px;
+}
+
+.works__box{
+  padding-left: 85px;
+}
+
+.works__title{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+  margin: 0;
+  margin-top: 200px;
+  margin-bottom: 80px;
+}
+
+.works__spanbox{
+  display: flex;
+}
+
+.works__span{
+  display: block;
+  width: 31px;
+  height: 31px;
+  background: #FEFCF7;
+  border: 2px solid #0E8784;
+  border-radius: 100%;
+}
+
+.works__line{
+  width: 349px;
+  height: 0.1px;
+  border: 1px solid #FDD6BA;
+  margin: 0;
+  margin-top: 15px;
+}
+
+.works__list{
+  display: flex;
+  margin: 0;
+  margin-top: 67px;
+  padding: 0;
+}
+
+.works__item{
+  margin-bottom: 72px;
+}
+
+.works__item:nth-child(2){
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.works__subtitle{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+  color: #FDD6BA;
+}
+
+.works__trunk{
+  width: 255px;
+  margin-top: 38px;
+  margin-bottom: 42px;
+}
+
+.works__subtext{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333D4B;
+  margin: 0;
+}
+
+.works__packet{
+  width: 285px;
+}
+
+.works__text{
+  font-family: "Barlow", "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;
+}

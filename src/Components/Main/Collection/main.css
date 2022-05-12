@@ -1,0 +1,59 @@
+.collection {
+  padding: 250px 0;
+  background-image: url("../../../Assets/Images/background.svg");
+  background-position: 54% 15%;
+  background-repeat: no-repeat;
+}
+
+.collection__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 65px;
+  padding: 0;
+}
+
+.collection__item {
+  width: 255px;
+}
+
+.collection__img {
+  width: 256px;
+  height: 193px;
+  object-fit: cover;
+}
+
+.collection__img--cover {
+  width: 235px;
+  height: 177px;
+  object-fit: cover;
+  padding-top: 18px;
+}
+
+.collection__itembox {
+  width: 255px;
+}
+
+.collection__title {
+  font-family: "Fraunces", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  color: #333d4b;
+  margin: 0;
+  margin-top: 72px;
+}
+
+.collection__text {
+  font-family: "Barlow", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #333d4b;
+  margin: 0;
+  margin-top: 24px;
+}
